@@ -1,0 +1,15 @@
+{
+  "settings": "Settings",
+  "language": "Language: ",
+  "return_to_menu": "Return to Menu",
+  "back": "Back",
+  "start_game": "Start the game",
+  "current_player": "Current Player: ",
+  "bullet": "Bullet: ",
+  "health": "Health: ",
+  "strength": "Strength: ",
+  "loading": "Loading",
+  "player_wins": "{name} Wins",
+  "player_count": "Players: {count}",
+  "cookie_notice": "Note: This website uses cookies to persist the settings."
+}

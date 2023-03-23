@@ -1,0 +1,15 @@
+{
+  "settings": "Einstellungen",
+  "language": "Sprache: ",
+  "return_to_menu": "Zurück zum Hauptmenü",
+  "back": "Zurück",
+  "start_game": "Spiel starten",
+  "current_player": "Aktueller Spieler: ",
+  "bullet": "Kugel: ",
+  "health": "Gesundheit: ",
+  "strength": "Stärke: ",
+  "loading": "Wird geladen",
+  "player_wins": "{name} gewinnt",
+  "player_count": "Spieler: {count}",
+  "cookie_notice": "Diese Website benutzt Cookies um die Einstellungen zu speichern."
+}
