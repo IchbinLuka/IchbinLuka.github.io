@@ -128,6 +128,7 @@ html, body, #full {
 }
 
 .menuContainer {
+    text-align: center;
     display: flex;
     justify-content: space-evenly;
     flex-direction: column;
@@ -146,6 +147,10 @@ html, body, #full {
 
 }
 
+input {
+    font-family: 'Mouse Memoirs', sans-serif;
+}
+
 input[type="checkbox"] {
     width: 25px;
     height: 25px;
@@ -154,5 +159,48 @@ input[type="checkbox"] {
 
 input[type="checkbox"]:checked {
     accent-color: black;
+}
 
+input[type="color"] {
+    outline: 0;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    background: whitesmoke;
+    outline: 0;
+    font-size: 30px;
+    border: none;
+    border-bottom: 3px solid black;
+}
+
+input[type="text"]:focus {
+    outline: 0;
+}
+
+
+.listItem {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+}
+
+.tooltip .tooltiptext {
+    width: 120px;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }

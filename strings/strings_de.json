@@ -3,6 +3,7 @@
   "language": "Sprache: ",
   "return_to_menu": "Zurück zum Hauptmenü",
   "back": "Zurück",
+  "next": "Weiter",
   "start_game": "Spiel starten",
   "current_player": "Aktueller Spieler: ",
   "bullet": "Kugel: ",
@@ -12,5 +13,16 @@
   "player_wins": "{name} gewinnt",
   "player_count": "Spieler: {count}",
   "cookie_notice": "Diese Website benutzt Cookies um die Einstellungen zu speichern.",
-  "fullscreen": "Vollbild"
+  "fullscreen": "Vollbild",
+  "multiplayer": "Mehrspieler",
+  "join": "Beitreten",
+  "new_session": "Neues Spiel",
+  "create_player": "Spieler erstellen",
+  "player_name": "Name",
+  "player_color": "Farbe",
+  "waiting_room": "Warteraum",
+  "session_name": "Name",
+  "start_session": "Spiel starten",
+  "error_could_not_fetch_sessions": "Beim Abrufen der Spiele ist ein Fehler aufgetreten.",
+  "please_use_other_name_color": "Bitte wähle einen anderen Namen oder eine andere Farbe."
 }
