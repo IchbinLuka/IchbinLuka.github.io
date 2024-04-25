@@ -1,5 +1,6 @@
 # ichbinluka.github.io
 
-This is the repository for a website on which you can play a game that I am currently working on.
+Repository of my GitHub page showcasing some of my projects. 
 
-[Link to the Website](https://ichbinluka.github.io/)
+[Tanks 3D](https://ichbinluka.github.io/tank_game)
+[Space Game](https://ichbinluka.github.io/space_game)
